@@ -5,5 +5,6 @@ qt code
 ![image](https://github.com/azx102003000/qt_work/blob/master/imgs/mouse_1.jpg)  
 样式图片2  
 ![image](https://github.com/azx102003000/qt_work/blob/master/imgs/mouse_2.jpg)  
-
+  
+email:1299641946@qq.com  
 Thanks github platform  
